@@ -1,5 +1,5 @@
 # Music-Band
-# Hello Guys
+
 This is a simple music playing website.
 I have created this is my learning phase,so that i can graps javascript nicely.
 Techstack used in this project are HTML,CSS,JavaScipt.
